@@ -1,6 +1,6 @@
 # Extreme TicTacToe Bot
 
-A multi-agent bot for the Extreme TicTacToe Tournament. A 4*4 board is further subdivided into 4*4 blocks. The bot plays against the opponent using Artificial Intellignece.
+A multi-agent bot for the Extreme TicTacToe Tournament. A 4 * 4 board is further subdivided into 4 * 4 blocks. The bot plays against the opponent using Artificial Intellignece.
 
 ## Methodology
 
